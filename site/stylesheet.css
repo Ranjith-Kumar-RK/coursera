@@ -1,0 +1,21 @@
+body{
+	background-color: violet;
+	}
+h1{
+	text-align: center;
+	}
+a{
+	text-decoration: none;
+	}
+span{
+	height: 50px;
+	width: 50px;
+	border-color: 1px solid black;
+	box-sizing: 20px 20px 20px 20px;
+}
+table, th, td{
+    	text-align: center;
+    	border: 1px solid black;
+    	border-collapse: collapse;
+    	border-spacing: 5px;
+ }
