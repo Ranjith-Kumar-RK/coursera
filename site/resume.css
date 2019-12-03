@@ -1,0 +1,46 @@
+*{
+	box-sizing: border-box;
+	border-style: 1px solid black;
+}
+body{
+	margin: 10px 10px 10px 10px;
+	padding-bottom: 10px;
+	width: 98%;
+	background-image: url("14585b81cf79c5a.jpg");
+	background-size: cover;
+	font-size: 120%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.image{
+	text-align: center;
+}
+.fa{
+	margin-right: 5px;
+}
+a:hover{
+	color: red;
+}
+#leftside{
+	float: left;
+	padding: 10px;
+	width: 20%;
+}
+#rightside{
+	width: 80%;
+	float: right;
+	margin-top: 0px;
+	padding-left: 20px;
+	padding-right: 10px;
+}
+#rightside h3{
+	text-decoration: underline;
+}
+#rightside .marks{
+	float: right;
+}
+#rightside h1{
+	margin-bottom: 2px;
+}
